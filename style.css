@@ -1,0 +1,17 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .color-container {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  /* Estilo para aumentar o tamanho dos inputs */
+  input {
+    height: 200px; /* Ajuste conforme necessário */
+    width: 250px; /* Ajuste conforme necessário */
+  }
