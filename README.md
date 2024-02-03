@@ -23,9 +23,9 @@
 <center>
 
 ## Tela-Inicial | Home-Screen
-![Home-Screen](https://github.com/Jonathan-Silva05/opposite-color/assets/133710242/addb3cb8-59e0-40ed-9e90-41a68753617e)
+![Home-Screen](https://github.com/Jonathan-Silva05/opposite-color/assets/133710242/85b326e6-03ab-468e-afa7-376ffd136844)
 
-![Selected-Color](https://github.com/Jonathan-Silva05/opposite-color/assets/133710242/0eff69c7-3641-4475-ba36-786360cff2fd)
+![Selected-Color](https://github.com/Jonathan-Silva05/opposite-color/assets/133710242/2e56afd1-6127-421e-bba8-7ad1282218b8)
 
 ## Tela-Responsiva | Responsive-Screen
 ![Responsive-Home-Screen](https://github.com/Jonathan-Silva05/opposite-color/assets/133710242/9eb95c50-a3ff-4724-9941-96fee4bb7397)
